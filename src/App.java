@@ -9,9 +9,9 @@ public class App {
             String prog_lang = scanner.nextLine();
 
             // Output
-            System.out.println(prog_lang + " Dev Loading...");                        
-        
-        }        
-        
+            System.out.println(prog_lang + " Dev Loading...");          
+        }              
     }
 }
+
+
